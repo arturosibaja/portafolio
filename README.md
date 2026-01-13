@@ -14,15 +14,11 @@ https://www.kaggle.com/datasets/wafaaelhusseini/e-commerce-transactions-clickstr
 - Dashboards in Power BI to visualize these information.
 
 ## Key Insights
-- Identified major drop-off between product view and add-to-cart. Only 26.7%.
+- Identified major drop-off between product view and add-to-cart.
 - Selected SKU shows strong views but low conversion, indicating potential pricing or UX issues
 - Retention analysis highlights low repeat purchase after first order
 
 ## Outputs
 - SQL scripts for funnel and retention analysis
-  -Funnel_product.sql = SQL query
-  -Funnel_product_data.csv = SQL query result
-  -retention_rate.sql = SQL query
-  -retention_rate_data.csv = SQL query result
-- Power BI dashboard visualizing funnel, conversion, and retention KPIs
-  -Funnel_Dashboard.png = Power BI screenshot of the funnel sql result with graphs
+- Power BI dashboard visualizing funnel, conversion and KPIs
+
