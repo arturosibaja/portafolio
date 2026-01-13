@@ -1,4 +1,4 @@
-product_id,category,name,price_usd,cost_usd,margin_usd,pct_margin,avg_webcam_price,avg_webcam_price
+product_id,category,name,price_usd,cost_usd,margin_usd,pct_margin,avg_webcam_price,avg_webcam_margin
 14,Electronics,"Webcam PowderBlue 606",76.66,45.24,31.42,40.99,315.94,38.84
 48,Electronics,"Webcam SaddleBrown 437",333.58,244.75,88.83,26.63,315.94,38.84
 49,Electronics,"Webcam MistyRose 876",379.54,279.54,100,26.35,315.94,38.84
