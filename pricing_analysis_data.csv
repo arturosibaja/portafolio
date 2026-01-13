@@ -1,0 +1,26 @@
+product_id,category,name,price_usd,cost_usd,margin_usd,pct_margin,avg_webcam_price,avg_webcam_price
+14,Electronics,"Webcam PowderBlue 606",76.66,45.24,31.42,40.99,315.94,38.84
+48,Electronics,"Webcam SaddleBrown 437",333.58,244.75,88.83,26.63,315.94,38.84
+49,Electronics,"Webcam MistyRose 876",379.54,279.54,100,26.35,315.94,38.84
+50,Electronics,"Webcam Lime 857",489.46,364.89,124.57,25.45,315.94,38.84
+51,Electronics,"Webcam LightBlue 848",143.95,93.26,50.69,35.21,315.94,38.84
+56,Electronics,"Webcam Violet 724",222.51,143.47,79.04,35.52,315.94,38.84
+59,Electronics,"Webcam RosyBrown 908",302.48,167.44,135.04,44.64,315.94,38.84
+67,Electronics,"Webcam DeepPink 357",500.91,282.17,218.74,43.67,315.94,38.84
+68,Electronics,"Webcam SlateGray 700",196.99,112.71,84.28,42.78,315.94,38.84
+80,Electronics,"Webcam Sienna 646",424.86,270.09,154.77,36.43,315.94,38.84
+85,Electronics,"Webcam LightSkyBlue 895",411.6,302.6,109,26.48,315.94,38.84
+88,Electronics,"Webcam Beige 598",455.61,240.67,214.94,47.18,315.94,38.84
+91,Electronics,"Webcam FloralWhite 474",233.27,123.09,110.18,47.23,315.94,38.84
+101,Electronics,"Webcam SpringGreen 564",67.97,51.58,16.39,24.11,315.94,38.84
+108,Electronics,"Webcam Plum 557",323.11,185.37,137.74,42.63,315.94,38.84
+112,Electronics,"Webcam Olive 751",504.4,359.14,145.26,28.8,315.94,38.84
+117,Electronics,"Webcam DeepPink 289",424.83,218.18,206.65,48.64,315.94,38.84
+132,Electronics,"Webcam Thistle 752",78.5,40.24,38.26,48.74,315.94,38.84
+135,Electronics,"Webcam OrangeRed 916",308.9,154.76,154.14,49.9,315.94,38.84
+139,Electronics,"Webcam DarkKhaki 857",445.72,250.3,195.42,43.84,315.94,38.84
+142,Electronics,"Webcam Chocolate 360",74.16,40.36,33.8,45.58,315.94,38.84
+145,Electronics,"Webcam HoneyDew 628",415.15,243.8,171.35,41.27,315.94,38.84
+147,Electronics,"Webcam DodgerBlue 584",207.65,109.17,98.48,47.43,315.94,38.84
+158,Electronics,"Webcam Cornsilk 396",436.42,336.25,100.17,22.95,315.94,38.84
+166,Electronics,"Webcam DarkRed 849",440.16,226.61,213.55,48.52,315.94,38.84
