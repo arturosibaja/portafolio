@@ -1,4 +1,4 @@
-E-commerce Analytics Case
+## ## E-commerce Analytics Case
 
 ## Business Problem
 Analyze user behavior across the purchase funnel, product-level conversion, and customer retention to identify performance gaps and improvement opportunities.
