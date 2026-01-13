@@ -4,7 +4,7 @@
 Analyze user behavior across the purchase funnel, product-level conversion, and customer retention to identify performance gaps and improvement opportunities.
 
 ## Dataset
-Simulated e-commerce dataset including events, orders, products, and users.
+Simulated e-commerce dataset including users, products, sessions, events, orders and reviews.
 https://www.kaggle.com/datasets/wafaaelhusseini/e-commerce-transactions-clickstream/data?select=sessions.csv
 
 ## Analysis Performed (SQL and Power BI)
